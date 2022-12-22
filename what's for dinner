@@ -1,0 +1,80 @@
+background(186, 145, 20); // wooden table
+ellipse(200, 200, 350, 350); // plate
+ellipse(200, 200, 300, 300); 
+
+//cucumber rind
+fill(25,94,22);
+stroke(25,94,22);
+ellipse(278,122,67,63);
+//cucumber inside
+fill(141,201,110);
+stroke(141,201,110);
+ellipse(279,122,53,55);
+//seeds
+fill(34,186,20);
+stroke(34,186,20);
+ellipse(270,107,7,7);
+ellipse(291,110,7,7);
+ellipse(293,127,7,7);
+ellipse(278,140,7,7);
+ellipse(263,125,7,7);
+
+//tomatoe rind
+fill(255, 0, 0);
+stroke(255, 0, 0);
+ellipse(305,173,67,63);
+//tomatoe inside
+fill(209,115,115);
+stroke(209,115,115);
+ellipse(305,173,53,55);
+//seeds
+fill(110, 12, 12);
+stroke(110, 12, 12);
+ellipse(290,170,7,7);
+ellipse(302,157,7,7);
+ellipse(320,163,7,7);
+ellipse(322,179,7,7);
+ellipse(301,184,7,7);
+
+//chips
+fill(232,237,87);
+stroke(172, 173, 130);
+triangle(152,180,220,158,157,113);
+triangle(116,169,204,155,136,111);
+triangle(210,134,156,102,139,169);
+
+//carrot
+fill(227,117,20);
+stroke(227,117,20);
+rect(137,275,120,25,7);
+//leaf
+fill(40,171,38);
+stroke(40,171,38);
+rect(267,283,-15,5,-26);
+
+//broccoli
+fill(24,168,33);
+stroke(24,168,33);
+rect(137,234,60,25,7);
+//florets
+fill(29,94,24);
+stroke(29,94,24);
+//first row
+ellipse(200,248,10,10);
+ellipse(200,256,10,10);
+ellipse(200,238,10,10);
+ellipse(200,265,10,10);
+ellipse(200,229,10,10);
+//second row
+ellipse(209,248,10,10);
+ellipse(209,240,10,10);
+ellipse(209,258,10,10);
+ellipse(209,233,10,10);
+//thrid row
+ellipse(217,253,10,10);
+ellipse(217,244,10,10);
+ellipse(217,237,10,10);
+//fourth row
+ellipse(225,241,10,10);
+ellipse(225,251,10,10);
+
